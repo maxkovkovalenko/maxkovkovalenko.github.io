@@ -1,2 +1,2 @@
-# maxkovkovalenko.github.io
+# Максим Коваленко
 Моя первая работа
